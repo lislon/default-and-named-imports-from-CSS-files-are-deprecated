@@ -1,0 +1,14 @@
+{
+  "name": "@demo/app1",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite --force"
+  },
+  "type": "module",
+  "dependencies": {
+    "@demo/mid1": "^1.0.0"
+  },
+  "devDependencies": {
+    "vite": "^4.1.2"
+  }
+}

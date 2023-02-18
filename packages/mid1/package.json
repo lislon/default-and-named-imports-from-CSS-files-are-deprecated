@@ -1,0 +1,17 @@
+{
+  "name": "@demo/mid1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "cross-env NODE_ENV=development webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@demo/style1": "^1.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "webpack-cli": "^5.0.1"
+  }
+}

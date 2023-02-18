@@ -1,0 +1,21 @@
+{
+  "name": "default-and-named-imports-from-css-files-are-deprecated",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lislon/default-and-named-imports-from-CSS-files-are-deprecated.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lislon/default-and-named-imports-from-CSS-files-are-deprecated/issues"
+  },
+  "homepage": "https://github.com/lislon/default-and-named-imports-from-CSS-files-are-deprecated#readme",
+  "workspaces": [
+    "packages/*"
+  ]
+}
