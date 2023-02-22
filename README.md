@@ -1,7 +1,6 @@
 # default-and-named-imports-from-CSS-files-are-deprecated
 
-
-This is reproduction of warning when using a library that imports css: 
+This is reproduction of warning when using a library that imports css (See https://github.com/vitejs/vite/discussions/12101 for more details): 
 ```
 Default and named imports from CSS files are deprecated. Use the ?inline query instead
 ```
